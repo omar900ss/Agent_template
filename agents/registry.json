@@ -22,5 +22,12 @@
     "created": "2025-03-10",
     "primaryRole": "Frontend Authentication Specialist",
     "description": "A specialized agent for frontend authentication specialist."
+  },
+  {
+    "id": "test-agent",
+    "name": "Test Agent",
+    "status": "ACTIVE",
+    "created": "2025-03-10",
+    "primaryRole": "Testing"
   }
 ]
