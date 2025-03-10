@@ -6,5 +6,13 @@
     "created": "2025-03-10",
     "primaryRole": "UI/UX Specialist",
     "description": "A specialized agent for frontend development, UI design, and user experience optimization"
+  },
+  {
+    "id": "backend-dev",
+    "name": "Backend Developer",
+    "status": "ACTIVE",
+    "created": "2025-03-10",
+    "primaryRole": "Server-side Engineer",
+    "description": "A specialized agent for building robust, scalable backend systems"
   }
 ]
