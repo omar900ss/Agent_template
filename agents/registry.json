@@ -1,0 +1,10 @@
+[
+  {
+    "id": "frontend-dev",
+    "name": "Frontend Developer",
+    "status": "ACTIVE",
+    "created": "2025-03-10",
+    "primaryRole": "UI/UX Specialist",
+    "description": "A specialized agent for frontend development, UI design, and user experience optimization"
+  }
+]
