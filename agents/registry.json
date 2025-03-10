@@ -14,5 +14,13 @@
     "created": "2025-03-10",
     "primaryRole": "Server-side Engineer",
     "description": "A specialized agent for building robust, scalable backend systems"
+  },
+  {
+    "id": "longin-frontend-agent",
+    "name": "Login Frontend Agent",
+    "status": "ACTIVE",
+    "created": "2025-03-10",
+    "primaryRole": "Frontend Authentication Specialist",
+    "description": "A specialized agent for frontend authentication specialist."
   }
 ]
