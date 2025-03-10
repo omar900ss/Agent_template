@@ -29,5 +29,13 @@
     "status": "ACTIVE",
     "created": "2025-03-10",
     "primaryRole": "Testing"
+  },
+  {
+    "id": "defaultagentname-1741651044",
+    "name": "DefaultAgentName",
+    "status": "ACTIVE",
+    "created": "2025-03-11",
+    "primaryRole": "Specialized Agent",
+    "description": "A specialized agent for specialized agent."
   }
 ]
