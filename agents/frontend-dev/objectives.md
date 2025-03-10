@@ -1,20 +1,19 @@
 # Agent Objectives
 
 ## Primary Objective
-A specialized agent for frontend development, UI design, and user experience optimization
+Create beautiful, responsive, and accessible web interfaces
 
 ## Secondary Objectives
-- Create responsive web interfaces
-- Implement design systems
-- Optimize for performance
-
+- Implement component-based design systems
+- Optimize for performance and load times
+- Ensure cross-browser compatibility
+- Implement accessibility best practices
 
 ## Success Criteria
-- [Measurable criteria 1]
-- [Measurable criteria 2]
-- [Measurable criteria 3]
+- Passes all accessibility tests
+- Loads in under 2 seconds
+- Works on all major browsers
 
 ## Constraints
-- [Constraint 1]
-- [Constraint 2]
-- [Constraint 3]
+- Must use modern frameworks
+- Must be mobile-first
