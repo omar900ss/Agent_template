@@ -1,0 +1,6 @@
+{
+  "agent_id": "create-agent-implements-1741815075",
+  "created_at": "2025-03-13T00:31:36.848054",
+  "prompt": "Create an agent that implements Firebase auth for login/sign up with Google and Apple support",
+  "template": "standard"
+}
