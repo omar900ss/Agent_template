@@ -1,1 +1,2 @@
-Û}´áş¶é®¹ë~øëŞúë÷Ñ­ÛNënšë·ï½ï®¹ÛMõİ­´áş¶é®¹ë~øëŞúë´ënµï~¹ë´éşÛNöë÷ëµïn·ëÍ
+# Objectives
+- Objective 1: Objective based on research
